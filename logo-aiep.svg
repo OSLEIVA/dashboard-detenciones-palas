@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" role="img" aria-label="Logo AIEP">
+<rect width="760" height="260" fill="white"/>
+<g fill="#c40000"><path d="M4 44h86v150H4z"/><path d="M113 44h94v150h-94z"/><path d="M230 44h86v150h-86z"/><path d="M160 0l47 45h-94z"/></g>
+<g fill="#00264d"><path d="M350 194L390 44h42l54 150h-44l-10-34h-50l-9 34zm42-70h30l-15-51z"/><path d="M494 44h39v150h-39z"/><path d="M548 44h83v33h-44v25h40v32h-40v27h47v33h-86z"/><path d="M648 44h58c33 0 50 19 50 48 0 31-19 50-52 50h-17v52h-39zm39 32v35h13c12 0 18-6 18-18 0-11-6-17-18-17z"/></g>
+<text x="4" y="248" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#00264d">de la Universidad Andrés Bello</text>
+</svg>

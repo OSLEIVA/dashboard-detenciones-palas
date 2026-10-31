@@ -1,0 +1,13 @@
+DASHBOARD AIEP - INSTRUCCIONES
+1. Extraiga el archivo ZIP en una carpeta local.
+2. Abra index.html con Microsoft Edge, Google Chrome o Firefox.
+3. Cargue primero el reporte RptDetenciones_BUCYRUS 495B_HR_20262810.xls.
+4. Cargue la encuesta Encuesta sobre visualización y priorización de detenciones en equipos industriales..xlsx.
+5. Use Ctrl+clic (Windows) o Cmd+clic (macOS) para seleccionar varias alternativas en los filtros.
+6. La lectura de Excel usa SheetJS desde un CDN. Se necesita conexión a internet al abrir por primera vez. Los archivos cargados no se envían: el procesamiento se realiza localmente en el navegador.
+7. No modifique los archivos originales. La exportación CSV incluye solo los registros filtrados y omite campos personales.
+
+ARCHIVOS
+- index.html
+- logo-aiep.svg
+- INSTRUCCIONES.txt
