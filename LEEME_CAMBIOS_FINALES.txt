@@ -1,0 +1,16 @@
+ARCHIVO FINAL PARA GITHUB PAGES
+
+Cambios incluidos:
+- Nuevo logo AIEP azul integrado dentro de index.html.
+- Banner académico con asignatura, proyecto, profesor, carrera e integrantes.
+- Semáforos con rojo, amarillo y verde completamente visibles.
+- Espacio reservado para impedir que la imagen tape la luz verde.
+- Tooltips corregidos para mostrarse por encima de tarjetas y paneles.
+- Etiquetas: Eventos totales, Horas totales y Eventos MNP.
+- Se mantienen datos, filtros, prioridad Pala + Sistema, disponibilidad, TMEF y TMPR.
+
+Reemplazo:
+1. Elimina el index.html actual de GitHub.
+2. Sube únicamente este nuevo index.html a la raíz.
+3. Confirma en main.
+4. Abre GitHub Pages y presiona Ctrl+F5.
