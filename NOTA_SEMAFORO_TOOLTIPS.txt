@@ -1,0 +1,10 @@
+MEJORAS INCORPORADAS
+- Semáforo físico SVG visible en cada tarjeta de pala.
+- Solo una luz queda encendida según prioridad alta, media o baja.
+- Tooltips al pasar el cursor o enfocar con teclado.
+- Ayudas en tarjetas de palas, indicadores, cajas de prioridad y títulos principales.
+- La lógica de prioridad no fue modificada.
+- La imagen continúa integrada dentro de index.html.
+
+REEMPLAZO
+Sube únicamente index.html a la raíz de GitHub, reemplaza el anterior y actualiza con Ctrl+F5.
